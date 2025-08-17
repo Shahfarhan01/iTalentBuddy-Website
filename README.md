@@ -1,1 +1,1 @@
-# iTalentBuddy-Website
+# iTalentBuddy
